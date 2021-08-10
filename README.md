@@ -14,7 +14,7 @@
 
 Установите библиотеки и зависимости согласно файлу requirements.txt:
 ```
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 Выполните в консоли команду: 
