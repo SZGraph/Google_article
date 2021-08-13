@@ -23,7 +23,7 @@ $ python3 Google_article.py
 ```
 или укажите путь к файлу:
 ```
-$ python3 ~/home/... /Google_article.py
+$ python3 /home/... /Google_article.py
 ```
 Далее программа попросит ввести несколько параметров для формирования запроса к google news. 
 
